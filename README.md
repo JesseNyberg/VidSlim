@@ -14,6 +14,10 @@
   - #### You can choose any file size you want in megabytes.
     
 - ### **Browse**: 
-  - #### Choose any files you want from your computer.
+  - #### Choose any videos you want to compress from your computer.
+ 
+- ### **Compress**: 
+  - #### Compressing the videos to selected size.
+    - Uses FFMPEG library.
 
 ---
